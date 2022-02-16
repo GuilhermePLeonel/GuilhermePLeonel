@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GuilhermePLeonel
 - 👀 I’m interested in learn and being an web developer
-- 🌱 I’m currently learning JS,HTML,CSS, etc
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JS,HTML,CSS,React,Redux...
+- 📫 How to reach me: instagram: @lee.1.l/ Twitter: @guilhermepleon1
 
 <!---
 GuilhermePLeonel/GuilhermePLeonel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
