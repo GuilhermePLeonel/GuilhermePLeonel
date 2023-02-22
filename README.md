@@ -1,10 +1,10 @@
-## 👋🏻 Oi, eu sou Guilherme Leonel
+## 👋🏻 Olá!, eu sou Guilherme Leonel
 
+Sou de Nova Iguaçu (RJ) e atualmente estou estudando na Trybe com o objetivo de me tornar um desenvolvedor web full-stack. Estou me empenhando bastante nos meus estudos para conseguir ingressar no mercado de trabalho e colocar em prática tudo o que venho aprendendo.
 
+Nos meus tempos livres, gosto de praticar vôlei, desenhar e pintar. Além disso, costumo jogar online com amigos, o que me ajuda a relaxar e a manter o equilíbrio entre trabalho e lazer.
 
-Como um grande entusiasta de tecnologia, eu encontrei meu caminho na programação em 2022. Desde então, tenho me dedicado a estudar as tecnologias e práticas relacionadas por meio do curso Trybe. Esse curso tem uma duração de um ano e tem como objetivo modelar e formar desenvolvedores full stack de forma sólida, visando prepará-los para o mercado de trabalho.
-
-Meu objetivo inicial é ingressar no mercado de trabalho como desenvolvedor e adquirir o máximo de experiência e conhecimento possível. Quero garantir a assertividade e eficiência no meu desempenho, por isso pretendo estar sempre atualizado e aprimorando minhas habilidades.
+Meu objetivo é me desenvolver cada vez mais no ramo da tecnologia e da informação, adquirindo conhecimento e experiência que me levem a patamares ainda maiores. Estou animado para ver onde essa jornada me levará e estou disposto a trabalhar duro para alcançar meus objetivos.
 
 <center>
 <table>
