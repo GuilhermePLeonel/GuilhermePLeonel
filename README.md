@@ -2,7 +2,9 @@
 
 
 
-Como um bom amante de tecnologia, foi em 2022 que encontrei meu caminho na programação e me empenhei em estudar suas tecnologias e práticas através do curso Trybe que por um periodo de 1 ano, modela e forma essoas desenvolvedoras full stack de forma muito sólida visando te preparar pro mercado de trabalho. Meu objetivo inicial é ingressar no mercado de trabalho e adquirir o máximo de experiencia e conhecimento possiveis que me garantam assertividade e eficiencia no meu desempenho.
+Como um grande entusiasta de tecnologia, eu encontrei meu caminho na programação em 2022. Desde então, tenho me dedicado a estudar as tecnologias e práticas relacionadas por meio do curso Trybe. Esse curso tem uma duração de um ano e tem como objetivo modelar e formar desenvolvedores full stack de forma sólida, visando prepará-los para o mercado de trabalho.
+
+Meu objetivo inicial é ingressar no mercado de trabalho como desenvolvedor e adquirir o máximo de experiência e conhecimento possível. Quero garantir a assertividade e eficiência no meu desempenho, por isso pretendo estar sempre atualizado e aprimorando minhas habilidades.
 
 <center>
 <table>
