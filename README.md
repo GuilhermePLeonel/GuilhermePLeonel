@@ -20,5 +20,5 @@ Meu objetivo √© me desenvolver cada vez mais no ramo da tecnologia e da informa√
 ### Contact me
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/guilherme-pleonel/)
-![Gmail](https://img.icons8.com/gmail)
+![Gmail](https://img.icons8.com/email)
 
